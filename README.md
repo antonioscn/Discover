@@ -1,2 +1,2 @@
 # Discover
-Estudos do curso Discover da Rocketseat
+Estudos spbre o curso Discover da Rocketseat
